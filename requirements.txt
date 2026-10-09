@@ -1,0 +1,12 @@
+streamlit
+torch
+numpy
+pillow
+scikit-learn
+fastapi
+uvicorn
+pydantic
+tensorflow
+keras
+
+
